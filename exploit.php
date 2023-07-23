@@ -1,5 +1,5 @@
 <?php
 
-system('cat /etc/passwd');
+system("cat /etc/passwd");
 
 ?>
